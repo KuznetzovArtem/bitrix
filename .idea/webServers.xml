@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f6c90a1c-9fb7-48b7-be2d-9e72a6410788" name="myBitrixProject" url="http://172.16.1.245">
+        <fileTransfer host="172.16.1.245" port="22" rootFolder="/home" accessType="SFTP" password="dfcbdfd8dfdedfcfdfc7df92df93df9bdf98df9adf9fdf9fdf9ddf98df92df98" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
