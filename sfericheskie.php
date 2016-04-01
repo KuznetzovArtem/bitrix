@@ -1,5 +1,5 @@
 <?
-require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+
 $APPLICATION->SetTitle("Новая страница");
 ?><img width="90" src="/examples/download/files/1.png" height="91">Сферический сайт в вакууме<br>
  <br>
@@ -32,4 +32,3 @@ $APPLICATION->SetTitle("Новая страница");
 <form action="http://172.16.1.245/result-sfery.php">
  <input type="submit" value="показать результаты">
 </form>
- <br><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

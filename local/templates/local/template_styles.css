@@ -9,7 +9,15 @@
     src: url("Fregat_regular.otf");
 
 }
+.informationblock{
+    padding-left: 38%;
+    padding-top: 2%;
+    height: 639px;
+    font-size: 18pt;
+    word-spacing: 2px;
+    font-family: Fregat_regular;
 
+}
 .form {
     margin-left: 485px;
     margin-top: 37px;

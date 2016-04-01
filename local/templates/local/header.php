@@ -11,7 +11,7 @@
 
 <div class="menuBack">
     <ul class="menu">
-        <li><a class = "main"href="#">главная</a></li>
+        <li><a class = "main"href="/index.php">главная</a></li>
         <li><a class = "notMain"href="#">не особо</a></li>
         <li><a class = "notofnoMain"href="#">вообще нет</a></li>
         <li><a class = "addItem" href="#">добавление товара</a></li>

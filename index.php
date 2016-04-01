@@ -39,6 +39,7 @@ $APPLICATION->SetTitle("Главная Страница Сферические �
             "WEB_FORM_ID" => "4"
         )
     ); ?>
+
     <br>
     <br>
     <h2></h2><? require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/footer.php"); ?>
